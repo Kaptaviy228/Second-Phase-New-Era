@@ -136,6 +136,17 @@ set_popularities = {
  democratic = 78
  fascism = 6
  communism = 16
+ neutrality = 0
+}
+
+add_ideas = {	
+	RUS_FRSV
+	RUS_DFBNB
+	RUS_EUOC
+	RUS_RSK
+	RUS_RUBAC
+	RUS_RUSMD
+	RUS_RUHTND
 }
 
 create_country_leader = {
